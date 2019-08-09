@@ -1,0 +1,32 @@
+INSTALAR PIP y configurar 
+
+https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
+https://pypi.org/project/python-magic-bin/0.4.14/
+
+python -m pip install Pillow
+python -m pip install img2pdf
+pip install python-magic
+pip install numpy
+
+pip install python-magic-bin==0.4.14
+pip install Wand
+pip install libmagic
+pip install pyttk
+
+
+pip install Pillow
+pip install reportlab
+pip install watchdog
+pip install pypdf2
+
+
+
+
+install manualmente : 
+
+ImageMagick https://legacy.imagemagick.org/script/binary-releases.php#windows
+
+
+Tesseract OCR software https://code.google.com/p/tesseract-ocr/
+GhostScript http://www.ghostscript.com/
+Poppler http://poppler.freedesktop.org/ (Windows)
